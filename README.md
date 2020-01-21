@@ -1,11 +1,4 @@
-
----
-title: 使用Java解析class字节码结构
-date: 2020-01-20 17:59:51
-tags:
-category: Java
-description: 按照 JVM 字节码的存储格式规范，实现了一段程序解析字节码结构。
----
+# 使用 Java 解析字节码文件结构
 
 按照JVM 字节码的存储格式 https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html 规范，实现了一段程序解析字节码结构。
 
