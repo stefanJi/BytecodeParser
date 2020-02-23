@@ -1,5 +1,5 @@
 #! /usr/bin/env bash
 
-javac -d out/ src/site/jiyang/*
-echo "========================================================================="
-java -cp out/ site.jiyang.Main out/site/jiyang/Main.class
+javac -verbose -d out src/site/jiyang/*
+echo "========================= ^_^ Start running ================================================"
+java -verbose -cp out/ site.jiyang.Main out/site/jiyang/Main.class
