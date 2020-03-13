@@ -8,7 +8,7 @@
 ./run.sh
 ```
 
-> 因为字节码指令太多了，所以还没有实现解析每一个字节码指令(`Code`属性里面的内容)。[Instruction.java](./site/jiyang/Instruction.java) 实现了一个字节码指令(ldc)的解析，其他指令类似。
+> 因为字节码指令太多了，所以还没有实现解析每一个字节码指令(`Code`属性里面的内容)。[Instruction.java](.src/site/jiyang/Instruction.java) 实现了一个字节码指令(ldc)的解析，其他指令类似。
 
 ## 结果输出
 
